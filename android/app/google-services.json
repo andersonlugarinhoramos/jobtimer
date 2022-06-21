@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127396746042",
+    "project_id": "ramlug-job-timer",
+    "storage_bucket": "ramlug-job-timer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127396746042:android:2ebfdf211feda680d83603",
+        "android_client_info": {
+          "package_name": "com.ramlug.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127396746042-lmcg3mmbg7hi687b2slk7jjgb1obcdth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHEC1ALi_1F8tHEAgUJnB855NCh6MDlxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127396746042-lmcg3mmbg7hi687b2slk7jjgb1obcdth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
